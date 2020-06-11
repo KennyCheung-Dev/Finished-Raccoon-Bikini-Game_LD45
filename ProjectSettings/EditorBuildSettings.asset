@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 01f65742ddd9043d8ad32213c7f7c76d
+  - enabled: 1
+    path: Assets/Scenes/Tamiko Levels/Tut1.unity
+    guid: 737d8ebacb5a0e9479eb77f114fc9d4a
+  - enabled: 1
+    path: Assets/Scenes/Tamiko Levels/Tut2.unity
+    guid: 3862068bd658e1c4c85e7eabe0ae2ba4
+  - enabled: 1
+    path: Assets/Scenes/Tamiko Levels/Tut3.unity
+    guid: 94b02f823fabb254db1957f76de80fc3
+  - enabled: 1
+    path: Assets/Scenes/Tamiko Levels/Tut4.unity
+    guid: d8336b33abd4fef48b38d3b23f94b92d
+  - enabled: 1
+    path: Assets/Scenes/Tamiko Levels/Tut5.unity
+    guid: 245493dc55f16d045a5dbcd0593f1284
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 2e8906ec850244ada8b2b68ddec0f800
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 02b6bf9347bd34ef08ee7159a05202a5
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 19dc1789c318213478f9c9180257094f
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: b83781a8a305c4d7390fd26909cf96a9
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: c52b4980b4cd1472eab672d747db8d47
+  - enabled: 1
+    path: Assets/Scenes/Level11.unity
+    guid: 3458757b84da5464cbc3d1442a777391
+  - enabled: 1
+    path: Assets/Scenes/Level12.unity
+    guid: cfbf2f3a3e68d4efd9b6b93256331cbc
+  - enabled: 1
+    path: Assets/Scenes/Level13.unity
+    guid: 2bdc037235fdb4fa79612c0029d30775
+  - enabled: 1
+    path: Assets/Scenes/Level14.unity
+    guid: 162cccdf7a6d2408685d943aa70cea10
+  - enabled: 1
+    path: Assets/Scenes/Level15.unity
+    guid: 948d4a0e36e4d458dba8d9b4b51d818b
+  - enabled: 1
+    path: Assets/Scenes/Level16.unity
+    guid: d425a1f6f2c20437193c11de56949474
+  - enabled: 1
+    path: Assets/Scenes/Level17.unity
+    guid: 8d45a2747b5cd234a86d2a571be104e9
+  - enabled: 1
+    path: Assets/Scenes/Level18.unity
+    guid: 75ea69e1ca5ae46598b1428c12c2ebf4
+  - enabled: 1
+    path: Assets/Scenes/Level19.unity
+    guid: 8d562a227e06249018cac55f75d907b1
+  - enabled: 1
+    path: Assets/Scenes/Level20.unity
+    guid: d88e458267aec0d4c87333836a1ec2a9
+  - enabled: 1
+    path: Assets/Scenes/Tamiko Levels/Credits.unity
+    guid: 8804cc86eae4acc4d8aeaa461b7dcd6c
+  m_configObjects: {}

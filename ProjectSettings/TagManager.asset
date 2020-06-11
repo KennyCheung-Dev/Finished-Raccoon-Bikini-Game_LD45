@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayArea
+  - ToolBoxArea
+  - PlayButton
+  - staticObject
+  - Bikini
+  - goal
+  - Ladder
+  - greenArea
+  - redArea
+  - tinyCornerCheck
+  - blueArea
+  - canvas
+  - music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - johnCorners
+  - colorAreas
+  - GroupArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: PlayArea
+    uniqueID: 1675181579
+    locked: 0
+  - name: ToolBox
+    uniqueID: 3605932129
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Instructions
+    uniqueID: 3687083065
+    locked: 0
